@@ -1,0 +1,6 @@
+[submodule "operating-system"]
+	path = operating-system
+	url = ../linux-operating-system
+[submodule "source"]
+	path = source
+	url = ../for_coder-source
