@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system/operating-system-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system/operating-system-posix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system/storage-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system/third-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating-system/tool-linux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/ca2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/for_coder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/for_coder/coder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/include" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/bzip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/cairo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/clientchannels" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/debugbreak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/expat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/freeimage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/iconv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/id3lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/idn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/jpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/jxr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/libmpg123" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/nanosvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/openexr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/openjpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/pcre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/pixman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/png" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/rawlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/strophe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/webp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/port/zlib" vcs="Git" />
+  </component>
+</project>
